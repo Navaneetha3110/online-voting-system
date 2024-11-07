@@ -1,4 +1,4 @@
-online voting system
+Online Voting System
 abstact
 introduction
 objective
